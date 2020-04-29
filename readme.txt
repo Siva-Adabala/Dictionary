@@ -1,4 +1,4 @@
-1. Create an python application "Interactive English Dictionary"
+1. Create an python application "Interactive English Dictionary" using JSON Data
 2. Loading JSON Data
 3. Returning the Definition of a Word
 4. Taking Into Account Bad Words
